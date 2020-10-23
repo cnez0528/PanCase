@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Pancase.Models
+{
+    public enum EmploymentType
+    {
+        Fulltime,
+        Contract,
+        Other
+    }
+}
